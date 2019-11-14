@@ -1,0 +1,336 @@
+C:\Users\marcio.morais\Desktop\Website\Website\bin\Website.dll.config
+C:\Users\marcio.morais\Desktop\Website\Website\bin\Website.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\Website.pdb
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\csc.exe
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\csc.exe.config
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\csc.rsp
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\csi.exe
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\csi.exe.config
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\csi.rsp
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.AppContext.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Console.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Security.Claims.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\vbc.exe
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\vbc.exe.config
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\vbc.rsp
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\marcio.morais\Desktop\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marcio.morais\Desktop\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marcio.morais\Desktop\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marcio.morais\Desktop\Website\Website\obj\Debug\Website.csprojAssemblyReference.cache
+C:\Users\marcio.morais\Desktop\Website\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
+C:\Users\marcio.morais\Desktop\Website\Website\obj\Debug\Website.csproj.CopyComplete
+C:\Users\marcio.morais\Desktop\Website\Website\obj\Debug\Website.dll
+C:\Users\marcio.morais\Desktop\Website\Website\obj\Debug\Website.pdb
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\Website.dll.config
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\Website.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\Website.pdb
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\csc.exe
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\csc.exe.config
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\csc.rsp
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\csi.exe
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\csi.exe.config
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\csi.rsp
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.AppContext.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.Console.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.Security.Claims.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\vbc.exe
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\vbc.exe.config
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\vbc.rsp
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\obj\Debug\Website.csprojAssemblyReference.cache
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\obj\Debug\Website.csproj.CopyComplete
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\obj\Debug\Website.dll
+C:\Users\marcio.morais\Desktop\Pomodoro\Website\obj\Debug\Website.pdb
+C:\Users\etec\Desktop\Pomodoro\Website\bin\Website.dll.config
+C:\Users\etec\Desktop\Pomodoro\Website\bin\Website.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\Website.pdb
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\csc.exe
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\csc.exe.config
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\csc.rsp
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\csi.exe
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\csi.exe.config
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\csi.rsp
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.AppContext.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.Console.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.Security.Claims.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\vbc.exe
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\vbc.exe.config
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\vbc.rsp
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\etec\Desktop\Pomodoro\Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\etec\Desktop\Pomodoro\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\etec\Desktop\Pomodoro\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\etec\Desktop\Pomodoro\Website\obj\Debug\Website.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Pomodoro\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Pomodoro\Website\obj\Debug\Website.csproj.CopyComplete
+C:\Users\etec\Desktop\Pomodoro\Website\obj\Debug\Website.dll
+C:\Users\etec\Desktop\Pomodoro\Website\obj\Debug\Website.pdb
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\Website.dll.config
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\Website.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\Website.pdb
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\csc.exe
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\csc.exe.config
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\csc.rsp
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\csi.exe
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\csi.exe.config
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\csi.rsp
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.AppContext.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.Collections.Immutable.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.Console.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.IO.Compression.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.IO.FileSystem.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.IO.Pipes.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.Reflection.Metadata.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.Security.AccessControl.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.Security.Claims.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.ValueTuple.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.Xml.XPath.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\vbc.exe
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\vbc.exe.config
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\vbc.rsp
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\VBCSCompiler.exe
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\roslyn\VBCSCompiler.exe.config
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\obj\Debug\Website.csprojAssemblyReference.cache
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\obj\Debug\Website.csproj.CopyComplete
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\obj\Debug\Website.dll
+E:\Desenvolvimento de Sistemas\Programação Web I\Pomodoro\Website\obj\Debug\Website.pdb
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\Website.dll.config
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\Website.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\Website.pdb
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\csc.exe
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\csc.exe.config
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\csc.rsp
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\csi.exe
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\csi.exe.config
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\csi.rsp
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.AppContext.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Collections.Immutable.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Console.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.IO.Compression.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.IO.FileSystem.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.IO.Pipes.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Reflection.Metadata.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Security.AccessControl.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Security.Claims.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.ValueTuple.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Xml.XPath.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\vbc.exe
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\vbc.exe.config
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\vbc.rsp
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\VBCSCompiler.exe
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\VBCSCompiler.exe.config
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\obj\Debug\Website.csprojAssemblyReference.cache
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\obj\Debug\Website.csproj.CopyComplete
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\obj\Debug\Website.dll
+G:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\obj\Debug\Website.pdb
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\Website.dll.config
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\Website.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\Website.pdb
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\csc.exe
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\csc.exe.config
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\csc.rsp
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\csi.exe
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\csi.exe.config
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\csi.rsp
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.AppContext.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Collections.Immutable.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Console.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.IO.Compression.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.IO.FileSystem.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.IO.Pipes.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Reflection.Metadata.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Security.AccessControl.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Security.Claims.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.ValueTuple.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Xml.XPath.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\vbc.exe
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\vbc.exe.config
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\vbc.rsp
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\VBCSCompiler.exe
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\roslyn\VBCSCompiler.exe.config
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\obj\Debug\Website.csprojAssemblyReference.cache
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\obj\Debug\Website.csproj.CopyComplete
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\obj\Debug\Website.dll
+E:\Desenvolvimento de Sistemas\Interdisciplinar\Site Parque Ideal\Website\obj\Debug\Website.pdb

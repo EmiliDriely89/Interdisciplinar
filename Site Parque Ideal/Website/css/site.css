@@ -1,0 +1,70 @@
+﻿html, body{
+    margin:0;
+    width:100%;
+    height:100%;
+}
+
+.topo {
+    width: 100%;
+    height: auto;
+    background: #ECF8E0;
+}
+
+.limitador{
+    margin:0 auto;
+    width:100%;
+    max-width:1100px;
+    height:auto;
+}
+
+.vermelho {
+    background: #ECF8E0;
+}
+
+.altura-60{
+    height:60px;
+}
+
+.img-resp {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+.logo{
+    width:auto;
+    height:100%;
+}
+
+.banner-fixo{
+    width:100%;
+    height:auto;
+    padding-top:30px;
+    padding-bottom:30px;
+}
+
+.espaco{
+    margin-top: 30px;
+    
+}
+
+
+.rodape {
+    width: 100%;
+    height: auto;
+    background: #ECF8E0;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.item-rodape{
+    text-decoration:none;
+    color:#000000;
+    padding-top:15px;
+}
+
+.item-rodape:hover{
+    text-decoration:underline;
+    color:#d8b81d;
+}
